@@ -1,3 +1,8 @@
+# Pitch video :- https://youtu.be/3eBGWDFTmhI?si=kn7yc2MuVfabXjwa
+
+# Demo video :- https://youtu.be/DD1b_OzHNdY?si=_ztUjo4L7R2C_xSI
+
+
 # MonClash — Full-Stack Web3 Gamified Trading Platform
 
 > **Trade. Compete. Conquer.**  
